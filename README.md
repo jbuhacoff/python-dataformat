@@ -1,6 +1,6 @@
 # python-dataformat
 
-Three very short and simple scripts to do these conversions:
+Very short and simple scripts to do these conversions:
 
 * json (stdin) to yaml (stdout)
 * json (stdin) to pydict (stdout)
